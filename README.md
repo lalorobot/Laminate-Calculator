@@ -9,7 +9,7 @@ planeProps.f90 is the main laminate setup file, it determines the fibre and matr
 
 To-Do:
 
-1. Automate finding the ̅z factors, right now the loop required modifications should the number of layers change.
+1. Automate finding the ̅z factors, right now the loop requires modifications should the number of layers change.
 2. Find the ABD matrix's inverse abd.
 3. Separate the individual calculation steps and the final ABD matrix and properties into two separate CSV files.
 
